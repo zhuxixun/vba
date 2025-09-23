@@ -1,5 +1,6 @@
 Option Explicit
 
+' 格式化当前pivot table的数据字段的数值格式
 Sub FormatCurrentPivot()
     Dim ws As Worksheet
     Dim pt As PivotTable
